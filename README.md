@@ -1,2 +1,2 @@
-# terraform-irsa-tf
-IAM role service account
+# terraform-irsa
+## Follow the videos in class to practice
